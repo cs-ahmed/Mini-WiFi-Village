@@ -76,7 +76,7 @@ The 2.4GHz 'Munich' and 'Paris' networks should not have any connected clients. 
 
 Each of the 5GHz 'LONDON' and 'LUXOR' networks will have a connected client. This allow students to experience sniffing wireless packets and cracking WEP with both, 64-bit and 128-bit, key sizes.
 
-The 2.4GHz 'Toronto' network (WPA2) should have a wireless client that keeps connecting and disconnecting within a given amount of time. This allos students to experience capturing a WPA2 handshake to use it with a given [wordlist](./resources/names.txt) to find the key/password.
+The 2.4GHz 'Toronto' network (WPA2) should have a wireless client that keeps connecting and disconnecting within a given amount of time. This allows students to experience capturing a WPA2 handshake to use it with a given [wordlist](./resources/names.txt) to find the key/password.
 
 ---
 
