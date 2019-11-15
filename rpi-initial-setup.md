@@ -52,6 +52,8 @@ Step 2:
 
 Extract the `.xz` file to obtain the `.img` file.
 
+Example: On a mac, type: `xz -d file.img.xz`
+
 Step 3:
 
 Insert the 32GB MicroSD card into your computer. Find the card's path and unmount the MicroSD card.
@@ -84,7 +86,7 @@ you will see the screen just looking like this for a long time:
 
 ![dd_started](./images/dd_started.png)
 
-Once the `dd` is complteted, the output on the terminal will look like this:
+Once the `dd` is completed, the output on the terminal will look like this:
 
 ![dd_completed](./images/dd_completed.png)
 
