@@ -127,7 +127,7 @@ Once you have a Panda N600 Dual Band WiFi network card in monitor mode, you can 
 <a name="cracking"></a>
 ### 4. Cracking these networks
 
-Here is an example of a project you can give to your students: [Example Project](./resources/WiFi_Hacking_Project_Example.pdf).
+Here is an example of a project you can assign to students: [Example Project](./resources/WiFi_Hacking_Project_Example.pdf).
 
 To obtain the solution manual on how to crack these network, please send an e-mail to Ahmed Ibrahim at (a.i@virginia.edu) with the subject "WiFi Project Solution Manual". Please include a link to your instrcutor web page in the e-mail. Once you are validated as an instructor, we will send you the solution manual. Please don't share the solution manual with any students.
 
