@@ -125,7 +125,7 @@ Changing the SSH host keys can be accomplished by doing the following:
 
 ```service ssh restart```
 
-### Going a WiFi network for setup
+### Joining a WiFi network for setup
 
 Connect to the Internet by either plugging in a network cable into the RPi's ethernet port or join a Wireless network.
 
