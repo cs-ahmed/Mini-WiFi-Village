@@ -5,7 +5,7 @@ Welcome to the Mini WiFi village (inspired by https://wctf.us). This exercise wr
 Please setup the lab environment as directed in the ```Setup Directions``` sections.
 Type the commands yourself.
 Copy and paste will not work properly.
-If you run into trouble or have questions, feel free to e-mail Ahmed Ibrahim at (a.i@virginia.edu) for assistance.
+If you run into trouble or have questions, feel free to e-mail Ahmed Ibrahim at (aibrahim@pitt.edu) for assistance.
 
 ---
 
@@ -129,7 +129,7 @@ Once you have a Panda N600 Dual Band WiFi network card in monitor mode, you can 
 
 Here is an example of a project you can assign to students: [Example Project](./resources/WiFi_Hacking_Project_Example.pdf).
 
-To obtain the solution manual on how to crack these network, please send an e-mail to Ahmed Ibrahim at (a.i@virginia.edu) with the subject "WiFi Project Solution Manual". Please include a link to your instrcutor web page in the e-mail. Once you are validated as an instructor, we will send you the solution manual. Please don't share the solution manual with any students.
+To obtain the solution manual on how to crack these network, please send an e-mail to Ahmed Ibrahim at (aibrahim@pitt.edu) with the subject "WiFi Project Solution Manual". Please include a link to your instrcutor web page in the e-mail. Once you are validated as an instructor, we will send you the solution manual. Please don't share the solution manual with any students.
 
 ---
 
