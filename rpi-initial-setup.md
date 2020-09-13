@@ -16,7 +16,7 @@ If you run into trouble or have questions, feel free to e-mail [Ahmed Ibrahim](a
 
 ---
 
-1. Download this image: [Kali18-RPi-Mini-WiFi-Village](https://files.mycloud.com/home.php?brand=webfiles&seuuid=bdeb2b5f3356628f0259b0fb8c288f91&name=Kali18-RPi-Mini-WiFi-Village)
+1. Download this image: [Kali18-RPi-Mini-WiFi-Village](https://files.mycloud.com/home.php?brand=webfiles&seuuid=11bcf058543e47e45532b75e396fd8eb&name=Kali18-RPi-Mini-WiFi-Village)
 2. Insert the 32GB MicroSD card into your computer
 3. Unmount the MicroSD card
 4. Use ```dd``` to clone the image to the MicroSD card
