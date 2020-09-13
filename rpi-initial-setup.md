@@ -8,7 +8,7 @@ or
 
 B- setup your RPi using the step-by-step instructions provided below
 
-If you run into trouble or have questions, feel free to e-mail [Ahmed Ibrahim](a.i@virginia.edu) for assistance.
+If you run into trouble or have questions, feel free to e-mail [Ahmed Ibrahim](aibrahim@pitt.edu) for assistance.
 
 ---
 
